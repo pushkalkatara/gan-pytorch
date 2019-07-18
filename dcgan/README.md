@@ -9,7 +9,7 @@ Generative Adversarial Networks](https://arxiv.org/abs/1511.06434), Alec Radford
 
 **Generator Architecture**
 <p align="center">
-<img src="media/Generator.png" title="DCGAN Generator" alt="DCGAN Generator">
+<img src="media/dcgan.png" title="DCGAN Generator" alt="DCGAN Generator">
 </p>
 
 **Network Design of DCGAN:**
